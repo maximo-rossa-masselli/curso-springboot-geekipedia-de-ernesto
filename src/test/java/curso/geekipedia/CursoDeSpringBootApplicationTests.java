@@ -1,0 +1,13 @@
+package curso.geekipedia;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CursoDeSpringBootApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
